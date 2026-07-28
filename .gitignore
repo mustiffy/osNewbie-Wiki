@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.rar
+*.zip
+*.7z
